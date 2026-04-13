@@ -1,7 +1,7 @@
 # 🗂️ Portafolio Técnico — Felipe Aylwin
 
 > **Ingeniero Químico | Desarrollador Full Stack en formación**  
-> 📍 Argentina | 💼 Disponible para roles Junior/Trainee | 🌐 Modalidad remota
+> 📍 Chile | 💼 Disponible para roles Junior/Trainee | 🌐 Modalidad remota
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-aylwin/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black?style=flat&logo=github)](https://github.com/faylwin)
@@ -13,16 +13,6 @@
 Soy Ingeniero Químico con formación complementaria en desarrollo Full Stack. Mi perfil combina el pensamiento analítico y la resolución de problemas complejos propios de la ingeniería, con la capacidad de construir soluciones digitales funcionales y escalables.
 
 Me interesa especialmente la intersección entre el mundo industrial y la tecnología: transformación digital de procesos, visualización de datos técnicos y desarrollo de herramientas que resuelvan problemas reales de ingeniería.
-
----
-
-## 🚀 Proyectos
-
-| # | Proyecto | Tecnologías | Link |
-|---|----------|-------------|------|
-| 1 | Sistema de Gestión de Inventario | React, Node.js, PostgreSQL, JWT | [Ver repositorio](#) |
-| 2 | API RESTful para Monitoreo de Procesos | Python, FastAPI, SQLite, Swagger | [Ver repositorio](#) |
-| 3 | Dashboard de Análisis de Datos Industriales | Python, Pandas, Streamlit | [Ver repositorio](#) |
 
 ---
 
@@ -157,7 +147,7 @@ Este proyecto demuestra que tengo las bases para crecer como desarrollador en en
 | Canal | Link |
 |-------|------|
 | 📧 Email | [f.aylwin@gmail.com] |
-| 💼 LinkedIn | [linkedin.com/in/felipe-aylwin/ |
+| 💼 LinkedIn | [linkedin.com/in/felipe-aylwin] |
 | 🐙 GitHub | [github.com/faylwin] |
 
 ---
